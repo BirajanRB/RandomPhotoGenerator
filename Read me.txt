@@ -1,0 +1,5 @@
+Copy And Paste your Photos into the "Photos" folder .
+
+Open the Random_Photo_Generator.bat
+
+Press "f" key to open the Photos randomly.
